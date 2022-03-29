@@ -20,4 +20,4 @@ Web tópicos com códigos e artigos no meu [java blog]https://medium.com/@fabio.
 
 | Titulo        | Artigo           | Repositorio  |
 | ------------- |:-------------:| :-----:|
-| javascript-passos-programacao-orientada-objetos |  | [link](https://github.com/binhojulix/web/tree/master/web/html-css-js) |
+| javascript-passos-programacao-orientada-objetos |  | [link](https://github.com/binhojulix/web/tree/javascript-passos-programacao-orientada-objetos/javascript-passos-programacao-orientada-objetos) |
